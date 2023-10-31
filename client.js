@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { image: 'img/blue-orange.jpg', alt: 'Image 2', caption: 'Caption 2' },
       { image: 'img/beer.jpg', alt: 'Image 3', caption: 'Caption 3' }
    
-  ];
+  ];dsvvdsvddvs
 
   // Function to generate card layout
   function generateCardLayout() {
